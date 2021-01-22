@@ -21,7 +21,7 @@
 
 | 岗位列表  |  地点               |  回复时限 | 联系方式                                    | 岗位类型 | 要求 |
 |--------|-------------|--------| -------------------------   | ------- | --- |
-| [技术岗位](https://job.alibaba.com/zhaopin/positionList.htm) | 杭州         |  48小时内 | xxx         | 应届，社招| 简历，岗位链接 |
+| <ul><li>[菜鸟网络](https://job.alibaba.com/zhaopin/positionList.htm)</li><li>[所有岗位](https://talent.alibaba.com/off-campus/)</li></ul> | 不限         |  12小时内 | zhiben.cd 📧 alibaba-inc.com | 社招| <ul><li>简历</li><li>岗位链接</li></ul> |
 | [技术岗位](https://job.alibaba.com/zhaopin/positionList.htm) | 杭州         |  48小时内 | xxx         | 应届，社招| 简历，岗位链接
 
 ### 🐺 百度
