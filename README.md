@@ -25,6 +25,7 @@
 | [Airbnb](#Airbnb)  | [Shopee](#Shopee)     |
 | [Facebook](#Facebook)  | -|
 | [亚马逊](#亚马逊)  | -|
+| [微软](#微软)  | -|
 
 ### <a name="阿里" >© 阿里</a>
 
@@ -125,6 +126,11 @@
 |--------|-------------|-------------------------   | ------- | --- |
 | [所有岗位](www.facebook.com/careers/jobs) | 全球        | fbreferral1992 📧 gmail.com ✅         | 应届，社招| <ul><li>姓名</li><li>邮箱</li><li>PDF 简历</li><li>岗位链接</li><li>100字推荐语</li></ul> |
 
+### <a name="微软" >© 微软</a>
+
+| 岗位列表 |  地点               | 联系方式                                    | 岗位类型 | 要求 |
+|--------|-------------|-------------------------   | ------- | --- |
+| [技术岗位](https://careers.microsoft.com/) | 中国（苏州为主）        | jake.hao 📧 microsoft.com ✅         | 社招 | <ul><li>简历</li><li>岗位链接</li><li>iOS/安卓/Mac开发热招中</li></ul> |
 
 ### <a name="亚马逊" >© 亚马逊</a>
 
