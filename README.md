@@ -1,6 +1,22 @@
-## 优秀内推列表
+<h1 align="center">
+  <img height="85" src="https://raw.githubusercontent.com/resumejob/awesome-resume/master/imgs/rabbit-256.png" alt="osjobs" /> <br> <br> 海外兔
+</h1>
 
-#### 须知
+<p align="center">
+  <a href="https://osjobs.net">
+    <img src="https://img.shields.io/website.svg?down_color=red&down_message=down&up_color=blue&up_message=up&url=https%3A%2F%2Fosjobs.net" alt="website" />
+  </a>
+  <a href="https://github.com/resumejob/awesome-resume/blob/master/license.md">
+    <img src="https://img.shields.io/github/contributors/resumejob/awesome-resume.svg" alt="license-mit" />
+  </a>
+</p>
+
+<p align="center">
+  <b> <a href="https://osjobs.net/co/">求职课程</a>｜<a href="https://osjobs.net/topk/">高频面试题</a>｜<a href="https://osjobs.net/interview/">经验采访</a>｜<a href="https://www.zhihu.com/people/Windson_Yang/posts?page=1">文章分享</a></b></br>
+  <sub>✨ 一对一入职套餐，<b>无需定金，入职不成功不收费</b>，详细信息请浏览<a href="https://osjobs.net/co/">求职课程</a> ✨<sub>
+</p>
+
+#### 内推须知
 - 请尊重双方时间，求职者投递前请检查自己的资料是否齐全并满足岗位要求，如果已经找其他人内推过的话，请提前说明。内推者请尽快回复邮件。
 - 请优先投递已认证（联系方式后有绿色勾）的内推者。
 - 若内推者超过72小时没有回复，可以找其他人进行内推。
