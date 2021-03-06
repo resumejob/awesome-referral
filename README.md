@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img height="85" src="https://raw.githubusercontent.com/resumejob/awesome-resume/master/imgs/rabbit-256.png" alt="osjobs" /> <br> <br> 海外兔
+  <img height="100" src="https://raw.githubusercontent.com/resumejob/awesome-resume/master/imgs/rabbit-256.png" alt="osjobs" /> <br> <br> 海外兔
 </h1>
 
 <p align="center">
@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/website.svg?down_color=red&down_message=down&up_color=blue&up_message=up&url=https%3A%2F%2Fosjobs.net" alt="website" />
   </a>
   <a href="https://github.com/resumejob/awesome-resume/blob/master/license.md">
-    <img src="https://img.shields.io/github/contributors/resumejob/awesome-resume.svg" alt="license-mit" />
+    <img src="https://img.shields.io/github/contributors/resumejob/awesome-referral.svg" alt="contributors" />
   </a>
 </p>
 
